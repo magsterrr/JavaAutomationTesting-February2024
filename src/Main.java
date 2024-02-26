@@ -11,7 +11,7 @@ public class Main {
 
         String firstName = scanner.nextLine();
 
-        System.out.println("Hello "+firstName);
+        System.out.println("Hello "+firstName + " !");
 
     }
 }
