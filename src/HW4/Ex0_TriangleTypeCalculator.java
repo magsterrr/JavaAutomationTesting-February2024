@@ -1,8 +1,8 @@
-package Exercise0;
+package HW4;
 
 import java.util.Scanner;
 
-public class TriangleTypeCalculator {
+public class Ex0_TriangleTypeCalculator {
 
     public static void main(String[] args) {
 

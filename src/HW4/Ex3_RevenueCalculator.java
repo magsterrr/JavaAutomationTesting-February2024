@@ -1,8 +1,8 @@
-package Exercise3;
+package HW4;
 
 import java.util.Scanner;
 
-public class RevenueCalculator {
+public class Ex3_RevenueCalculator {
 
     public static void main(String[] args) {
 

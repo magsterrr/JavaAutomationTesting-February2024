@@ -1,8 +1,8 @@
-package Exercise4;
+package HW4;
 
 import java.util.Scanner;
 
-public class LargestInArray {
+public class Ex4_LargestInArray {
 
     public static void main(String[] args) {
 

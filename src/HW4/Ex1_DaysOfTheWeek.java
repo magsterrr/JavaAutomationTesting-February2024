@@ -1,8 +1,8 @@
-package Exercise1;
+package HW4;
 
 import java.util.Scanner;
 
-public class DaysOfTheWeek {
+public class Ex1_DaysOfTheWeek {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

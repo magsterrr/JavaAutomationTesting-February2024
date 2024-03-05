@@ -1,8 +1,8 @@
-package Exercise2;
+package HW4;
 
 import java.util.Scanner;
 
-public class EligibleToWorkCalculator {
+public class Ex2_EligibleToWorkCalculator {
 
     public static void main(String[] args) {
 
