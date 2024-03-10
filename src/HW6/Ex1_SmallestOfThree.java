@@ -1,4 +1,4 @@
-package HW;
+package HW6;
 
 public class Ex1_SmallestOfThree {
     public static void main(String[] args) {
