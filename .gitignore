@@ -8,3 +8,8 @@
 ### UNIX OS ###
 \git-demo-project-env.iml
 \.idea\*
+
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
