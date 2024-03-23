@@ -12,7 +12,7 @@ public class EmployeeTest {
         double raisedMonthlySalary = employee.raiseMonthlySalary();
         System.out.println("The raised by 10% monthly salary is: " + raisedMonthlySalary);
         annualSalary = employee.getAnnualSalary();
-        System.out.println("The new anual salary is: "+ annualSalary);
+        System.out.println("The new annual salary is: "+ annualSalary);
         System.out.println(employee);
     }
 }
